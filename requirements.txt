@@ -1,7 +1,7 @@
-gradio
-transformers
-torch
-torchvision
+gradio==3.36.1
+transformers==4.30.2
+torch==2.0.1
+torchvision==0.15.2
 pylint==2.12.2
 pytest==7.1.0
 black==22.1.0
